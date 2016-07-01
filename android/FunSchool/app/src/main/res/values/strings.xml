@@ -8,4 +8,14 @@
     <string name="my_msg">我的消息</string>
     <string name="my_comments">我的评论</string>
     <string name="my_collect">我的收藏</string>
+    <string name="search">搜索</string>
+
+    <array name="gridview_list">
+        <item>游戏小组</item>
+        <item>兴趣班</item>
+        <item>补习班</item>
+        <item>特殊教育</item>
+        <item>家长课程</item>
+        <item>附近课程</item>
+    </array>
 </resources>
