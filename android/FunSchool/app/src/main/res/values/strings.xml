@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FunSchool</string>
+    <string name="homepage">首页</string>
+    <string name="minepage">我的</string>
+    <string name="Version_number_is_wrong">版本号错误</string>
+    <string name="more">更多</string>
+    <string name="listen_to_apply">试听申请</string>
+    <string name="my_msg">我的消息</string>
+    <string name="my_comments">我的评论</string>
+    <string name="my_collect">我的收藏</string>
+</resources>

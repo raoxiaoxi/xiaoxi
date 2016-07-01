@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--窗体颜色 -->
+    <color name="windows_color">#F5F5F5</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="white">#FFFFFF</color>
+    <color name="taskcontroller_font">#289CFF</color>
+    <color name="main_bottom_font_normal">#A4B1BA</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="black2">#ffeeeeee</color>
+</resources>

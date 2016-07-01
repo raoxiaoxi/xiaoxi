@@ -1,0 +1,33 @@
+//
+//  PrefixHeader.pch
+//  FunSchool
+//
+//  Created by YYQ on 16/6/27.
+//  Copyright © 2016年 raoxiaoxi. All rights reserved.
+//
+#ifndef FunSchool_PrefixHeader_pch
+#define FunSchool_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "APIUtils.h"
+#import "FSCommDef.h"
+#import "AFNetworking.h"
+#import "MJRefresh.h"
+#import "Utility.h"
+#import "TextFontDef.h"
+#import "APIUtils.h"
+#import "UIView+Extension.h"
+/*****图像加载****/
+#import "UIImageView+WebCache.h"
+
+#import "AppDelegate.h"
+#endif
+#endif
+
+
+
+
